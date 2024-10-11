@@ -1,7 +1,5 @@
-# Halo semua! 
+# Hi! 
 
-Perkenalkan nama saya **Danil Fadhlurrahman Alwi**.<br>
+I'm Danil Fadhlurrahman Alwi, a Machine Learning student in the [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) 2024 Batch 2 cohort.<br>
 
-Saya seorang mahasiswa **Machine Learning Cohort at Bangkit Academy 2024 Batch 2** di [Bangkit](https://grow.google/intl/id_id/bangkit/?tab=machine-learning).<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/danil-fadhlurrahman-alwi/) ku ya.
+You can find me on LinkedIn(https://www.linkedin.com/in/danil-fadhlurrahman-alwi/).
