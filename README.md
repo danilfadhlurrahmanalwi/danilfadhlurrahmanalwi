@@ -1,5 +1,10 @@
-# Hi! 
+# Hi there! 👋 I'm [Your Name]
 
-I'm Danil Fadhlurrahman Alwi, a Machine Learning student in the [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) 2024 Batch 2 cohort.<br>
+I am passionate about **Machine Learning**, **Data Science**, and **Data Analysis**. I love working on projects that involve turning data into meaningful insights and developing models that solve real-world problems.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/danil-fadhlurrahman-alwi/).
+## 🚀 Skills and Technologies:
+- **Programming Languages:** Python, R, SQL
+- **Machine Learning:** Scikit-learn, TensorFlow, Keras, PyTorch
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Model Deployment:** Flask, Streamlit, FastAPI
+- **Version Control:** Git, GitHub
