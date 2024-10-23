@@ -1,7 +1,4 @@
 # 👋 Hi there! Welcome to My GitHub Profile!
-
-I am an enthusiastic **Data Scientist**, **Machine Learning Engineer**, and **Web Developer** with a strong interest in solving problems using data. My focus is on leveraging **machine learning**, **data analysis**, and **AI techniques** to build impactful solutions. I'm always eager to collaborate and learn new technologies.
-
 ## 🚀 About Me
 - 💻 I like working on **Machine Learning Projects**.
 - 🔭 Exploring new techniques in **Data Science** and **AI**.
