@@ -32,7 +32,7 @@ I am an enthusiastic **Data Scientist**, **Machine Learning Engineer**, and **We
 
 </p>
 
-### Databases and Cloud:
+### Databases:
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
