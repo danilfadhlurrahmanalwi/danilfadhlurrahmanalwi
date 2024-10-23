@@ -4,7 +4,6 @@
 - 🔭 Exploring new techniques in **Data Science** and **AI**.
 - 🌱 I’m learning **Deep Learning** and **Machine Learning**.
 - 🎓 Studying **Information Systems** at **Politeknik Negeri Padang**.
-- 💬 Ask me about anything related to **Python**, **Machine Learning**, **Data Science**, and **Data Analysis**.
 - 👯 I’m looking to collaborate on **open-source projects** or **AI/ML** projects.
 
 ## 🛠️ My Technical Stack
