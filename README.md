@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋
 
 I am passionate about **Machine Learning**, **Data Science**, and **Data Analysis**. I love working on projects that involve turning data into meaningful insights and developing models that solve real-world problems.
 
