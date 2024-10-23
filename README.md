@@ -3,9 +3,9 @@
 I am an enthusiastic **Data Scientist**, **Machine Learning Engineer**, and **Web Developer** with a strong interest in solving problems using data. My focus is on leveraging **machine learning**, **data analysis**, and **AI techniques** to build impactful solutions. I'm always eager to collaborate and learn new technologies.
 
 ## 🚀 About Me
-- 💻 I’m currently working on **Machine Learning Projects**.
+- 💻 I like working on **Machine Learning Projects**.
 - 🔭 Exploring new techniques in **Data Science** and **AI**.
-- 🌱 I’m learning **Deep Learning** and **Cloud Computing**.
+- 🌱 I’m learning **Deep Learning** and **Machine Learning**.
 - 🎓 Studying **Information Systems** at **Politeknik Negeri Padang**.
 - 💬 Ask me about anything related to **Python**, **Machine Learning**, **Data Science**, and **Data Analysis**.
 - 👯 I’m looking to collaborate on **open-source projects** or **AI/ML** projects.
