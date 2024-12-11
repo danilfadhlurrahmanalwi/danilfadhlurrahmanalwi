@@ -1,5 +1,5 @@
-# 👋 Hi there! Welcome to My GitHub Profile!
-## 🚀 About Me
+# Welcome to My GitHub Profile!
+## About Me
 - I like working on **Machine Learning Projects**.
 - Exploring new techniques in **Data Science** and **AI**.
 - I’m learning **Deep Learning** and **Machine Learning**.
