@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Welcome to My Profile!
 ## About Me
 Possessing a strong passion for information technology, I am a final-year student in the Information Systems program. I am deeply interested in the developments within machine learning, artificial intelligence, and web development. This interest is supported by my skills in Python, scikit-learn, SQL, TensorFlow, PHP, HTML, JavaScript, and Alibaba Cloud. I also have several projects related to ML, AI, and web development.
 ## My Technical Skills
