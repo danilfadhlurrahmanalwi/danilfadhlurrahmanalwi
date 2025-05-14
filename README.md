@@ -1,11 +1,6 @@
 # Welcome to My GitHub Profile!
 ## About Me
-- I like working on **Machine Learning Projects**.
-- Exploring new techniques in **Data Science** and **AI**.
-- I’m learning **Deep Learning** and **Machine Learning**.
-- Studying **Information Systems** at **Politeknik Negeri Padang**.
-- I’m looking to collaborate on **open-source projects** or **AI/ML** projects.
-
+Possessing a strong passion for information technology, I am a final-year student in the Information Systems program. I am deeply interested in the developments within machine learning, artificial intelligence, and web development. This interest is supported by my skills in Python, scikit-learn, SQL, TensorFlow, PHP, HTML, JavaScript, and Alibaba Cloud. I also have several projects related to ML, AI, and web development.
 ## 🛠️ My Technical Stack
 ### Languages:
 <p align="left">
