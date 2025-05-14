@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 ## About Me
 Possessing a strong passion for information technology, I am a final-year student in the Information Systems program. I am deeply interested in the developments within machine learning, artificial intelligence, and web development. This interest is supported by my skills in Python, scikit-learn, SQL, TensorFlow, PHP, HTML, JavaScript, and Alibaba Cloud. I also have several projects related to ML, AI, and web development.
-## 🛠️ My Technical Stack
+## My Technical Stack
 ### Languages:
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
