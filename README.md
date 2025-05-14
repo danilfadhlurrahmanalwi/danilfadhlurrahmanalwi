@@ -1,8 +1,7 @@
 # Welcome to My GitHub Profile!
 ## About Me
 Possessing a strong passion for information technology, I am a final-year student in the Information Systems program. I am deeply interested in the developments within machine learning, artificial intelligence, and web development. This interest is supported by my skills in Python, scikit-learn, SQL, TensorFlow, PHP, HTML, JavaScript, and Alibaba Cloud. I also have several projects related to ML, AI, and web development.
-## My Technical Stack
-### Languages:
+## My Technical Skills
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
@@ -11,8 +10,6 @@ Possessing a strong passion for information technology, I am a final-year studen
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
 
 </p>
-
-### Frameworks, Libraries, and Tools:
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" />
@@ -22,8 +19,6 @@ Possessing a strong passion for information technology, I am a final-year studen
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" height="50" alt="Streamlit" />
 
 </p>
-
-### Databases:
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
